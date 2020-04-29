@@ -384,4 +384,4 @@ _deps
 *.out
 *.app
 
-./out
+/out
